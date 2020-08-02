@@ -12,7 +12,7 @@ sick with Coronavirus, and the number of people recovered from it.
 The data is borrowed from "covid-19" [dataset](https://github.com/datasets/covid-19)
 and stored as csv files in "data" directory.
 
-<img src="https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana/tree/master/docs/source/images/dashboard.gif" alt="Grafana dashboard example with Worldmap and GeoLoop Panel">
+<img src="https://raw.githubusercontent.com/viktorsapozhok/docker-postgres-influxdb-grafana/tree/master/docs/source/images/dashboard.gif" alt="Grafana dashboard example with Worldmap and GeoLoop Panel">
 
 ## Quick Start
 
