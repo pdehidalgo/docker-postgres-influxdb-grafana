@@ -2,7 +2,10 @@
 url: "https://viktorsapozhok.github.io/docker-postgres-influxdb-grafana/"
 title: docker-postgres-influxdb-grafana
 author: viktorsapozhok
-description: Building animated maps with Grafana
+description:
+  Installing Grafana, PostgreSQL and InfluxDB with docker,
+  creating map overlays with Worldmap Panel,
+  building animated maps with GeoLoop Panel plugin.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
