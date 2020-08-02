@@ -185,7 +185,7 @@ we will confine ourselves to serving the local directory where geojson is stored
     $ make -C docker/ data-server
 ```
 
-The GeoJSON URL: http://0.0.0.0:8000/countries.geojson
+The GeoJSON URL: `http://0.0.0.0:8000/countries.geojson`
 
 A further step is to obtain a free [MapBox API Key](https://www.mapbox.com/developers/),
 the only thing is you need to create a mapbox account.
