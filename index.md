@@ -12,7 +12,7 @@ sick with Coronavirus, and the number of people recovered from it.
 The data is borrowed from "covid-19" [dataset](https://github.com/datasets/covid-19)
 and stored as csv files in "data" directory.
 
-<img src="https://raw.githubusercontent.com/viktorsapozhok/docker-postgres-influxdb-grafana/tree/master/docs/source/images/dashboard.gif" alt="Grafana dashboard example with Worldmap and GeoLoop Panel">
+<img src="https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana/blob/master/docs/source/images/dashboard.gif?raw=true">
 
 ## Quick Start
 
@@ -65,7 +65,7 @@ for more details.
 Now we can login to the Grafana web UI in browser (http://localhost:3000/grafana/) with the login `admin` and
 password `password` and initialize data sources.
 
-![Grafana login page](https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana/tree/master/docs/source/images/grafana_login.png)
+![Grafana login page](https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana/blob/master/docs/source/images/grafana_login.png?raw=true)
 
 ## Data Sources
 
